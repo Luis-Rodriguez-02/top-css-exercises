@@ -1,0 +1,14 @@
+.firstbutt, .secondbutt{
+  font-size: 28px;
+  font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
+
+.firstbutt {
+  font-weight: bold;
+  background-color: hsl(100%, 30, 20);
+  color: rgb(255, 255, 255);
+}
+
+.secondbutt {
+  background-color: hsl(0%, 30, 20);
+}
